@@ -832,5 +832,67 @@
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105709/HOT-AND-NORMAL-FREE-STANDING-WATER-DISPENSER-RM417.jpg",
       "Regular Price": 10200
     }
+  ],
+  "categories":[
+    {
+      "ID":1,
+      "name": "Kitchen Essentials",
+      "Image Link":"https://cdn.doros.wedding/wp-content/uploads/2022/08/07130921/Multifunctional-Microwave-Oven-Rack-Stand-Telescopic-Kitchen-Racks-Seasoning-Bottle-Storage-Rack-Home-Storage-Organization.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Cleaning & Organisation",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093818/Screenshot-2022-08-25-153733.jpg"
+    },
+    {
+      "ID": 3,
+      "name": "Home Decor",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093747/Screenshot-2022-08-25-151912.jpg"
+    },
+    {
+      "ID": 4,
+      "name": "Furniture",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093801/Screenshot-2022-08-25-152224.jpg"
+    },
+    {
+      "ID": 5,
+      "name": "Blender",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10101627/Signature-Electric-chopper-SG-C01.jpg"
+    },
+    {
+      "ID": 6,
+      "name": "Hand mixer",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10102740/Hand-Mixer-With-Stand-Milky-White-Sliver.jpg"
+    },
+    {
+      "ID": 7,
+      "name": "Toaster",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08100623/2-Slice-Toaster-MTS2205.jpg"
+    },
+    {
+      "ID": 8,
+      "name": "Coffee maker",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104411/Silver-Black-Cordless-Stainless-Steel-Electric-Kettle.jpg"
+    },
+    {
+      "ID": 9,
+      "name": "Rice cooker",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104520/RICE-COOKER-RM397.jpg"
+    },
+    {
+      "ID": 10,
+      "name": "Microwave",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105010/23LITRES-DIGITAL-MICROWAVE-GRILL-SILVER-RM589-1.jpg"
+    },
+    {
+      "ID": 11,
+      "name": "Air Fryer",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105430/Von-VSYA55MTX-Air-Fryer-5.5L.jpg"
+    },
+    {
+      "ID": 12,
+      "name": "Water Dispenser",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105709/HOT-AND-NORMAL-FREE-STANDING-WATER-DISPENSER-RM417.jpg"
+    }
   ]
 }
